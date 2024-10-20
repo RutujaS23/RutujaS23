@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rutuja</h1>
 <h3 align="center">A passionate MERN stack developer from India</h3>
 
-- 🔭 I’m currently working on **NAIL DISEASES DETECTION USING CNN**
+- 🔭 I’m currently working on **MERN STACK PROJECTS**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
